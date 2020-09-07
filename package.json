@@ -1,7 +1,7 @@
 {
   "name": "pokemon-card-backup-app",
   "version": "0.1.0",
-  "homepage": "https://pokemon-card-backup.netlify.app/",
+  "homepage": "https://pokemon-card-backup.netlify.app/search",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
