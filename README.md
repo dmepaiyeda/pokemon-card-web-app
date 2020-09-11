@@ -2,6 +2,8 @@
 
 This web application manages a backup for Pokémon cards using the [Pokémon TCG API](https://docs.pokemontcg.io/).
 
+To view this application, 
+
 To run this application, you can run:
 
 ### `npm start`

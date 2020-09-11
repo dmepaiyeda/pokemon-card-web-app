@@ -19,8 +19,8 @@ const PurgeButton = () => {
         setAlert(true);
         setVariant("success");
         setMessage("Successful backup deletion");
-
-    } catch(error){
+    } 
+    catch(error){
         setAlert(true);
         setVariant("danger");
         setMessage(error.message);
