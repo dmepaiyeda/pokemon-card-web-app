@@ -2,7 +2,7 @@
 
 This web application manages a backup for Pokémon cards using the [Pokémon TCG API](https://docs.pokemontcg.io/).
 
-To view this application, 
+To view this application, go to [https://pokemon-card-backup.netlify.app/](https://pokemon-card-backup.netlify.app/).
 
 To run this application, you can run:
 

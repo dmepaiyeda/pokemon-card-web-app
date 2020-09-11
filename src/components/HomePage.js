@@ -25,19 +25,17 @@ const HomePage = () => {
                 <p class="lead">This is a web application that backs up pokemon card 
                 data and allows you to search pokemon cards</p>
                 <p>Pick a button to get started</p>
-                <Container>
-                    <Row md="auto">
-                        <Col md="auto">
-                            <BackupButton/>
-                        </Col>
-                        <Col md="auto">
-                            <PurgeButton/>
-                        </Col>
-                        <Col md="auto">
-                            <SearchBackupButton/>
-                        </Col>
-                    </Row>
-                </Container>
+                <Row>
+                    <Col md="auto">
+                        <BackupButton/>
+                    </Col>
+                    <Col md="auto">
+                        <PurgeButton/>
+                    </Col>
+                    <Col md="auto">
+                        <SearchBackupButton/>
+                    </Col>
+                </Row>
             </div>
         </div>
     </div>
