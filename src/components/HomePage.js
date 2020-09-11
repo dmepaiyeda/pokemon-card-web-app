@@ -1,5 +1,5 @@
 import React from "react";
-import { Button, Container, Col, Row, Image } from "react-bootstrap";
+import { Button, Col, Row, Image } from "react-bootstrap";
 import cover from "../images/pokemon.jpg";
 import BackupButton from "./CreateBackup";
 import PurgeButton from "./PurgeBackup";
